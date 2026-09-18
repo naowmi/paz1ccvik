@@ -1,16 +1,14 @@
 # paz1ccvik
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-````java 
-void main() {
-return;
+````java
+void main(String[] args) {
+    System.out.println("Hello, World!");
 }
 ````
-> Dzivo
 
-`System.out.println("Hello, world")`
-
+>Dzivo
 <style>
-h1 {color: mediumvioletred;}
-p {color: fuchsia; font-width: 12%}
-
+  body {
+    font-family: "Comic Sans MS", sans-serif;
+  }
 </style>
+meow
